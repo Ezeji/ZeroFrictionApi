@@ -7,5 +7,5 @@ Implementations such as creating customers, updating customers, creating invoice
 - Azure Cosmos DB(For database)
 
 # Project implementation technique
-- Dependency injection
-- Domain driven design
+- Dependency Injection
+- Domain Driven Design
